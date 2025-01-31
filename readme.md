@@ -5,9 +5,9 @@ O projeto consiste em explorar algumas ferramentas do azure.Todos os recursos e 
 
 ## FERRAMENTAS UTILIZADAS
 
-* <a href="#playground">Playground de chat</a>
-* <a href="#criação">Criação de recursos</a>
-* <a href="#considerações">Considerações finais</a>
+* <a href="#playgroud-de-chat">Playground de chat</a>
+* <a href="#criação-de-recursos">Criação de recursos</a>
+* <a href="#considerações-finais">Considerações finais</a>
 
  ## Playgroud de chat
 
@@ -23,4 +23,5 @@ Foram criados os seguintes recursos: Conta de armazenamento,Grupo de recursos e 
 
 ## Considerações finais
 
-O primeiro contato com o Azure foi esclarecedor e permetiu conhecer o funcionamento básico de algumas ferramentas!
+O primeiro contato com o Azure foi esclarecedor e permitiu conhecer o funcionamento básico de algumas ferramentas!
+
