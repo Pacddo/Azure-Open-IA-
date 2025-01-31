@@ -5,9 +5,9 @@ O projeto consiste em explorar algumas ferramentas do azure.Todos os recursos e 
 
 ## FERRAMENTAS UTILIZADAS
 
-* <a href="#playground">Plaground de chat</a>
-* <a href="#imagem">Criação de recursos </a>
-* <a href="#consideracoes">Considerações finais </a>
+* <a href="#playground">Playground de chat</a>
+* <a href="#criação">Criação de recursos</a>
+* <a href="#considerações">Considerações finais</a>
 
  ## Playgroud de chat
 
